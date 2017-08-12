@@ -1,0 +1,45 @@
+@media (max-width: 599px) {
+	  .box-feature {
+		padding-top: 35px;
+		padding-bottom: 35px;
+		padding-left: 5px; }
+		.box-feature > div {
+		  padding-left: 5px; }
+	  .list-feature div:nth-child(2) {
+		padding-left: 85px; }
+	  .list-feature li h3 {
+		color: #064F94;
+		font-size: 18px !important; }
+	  .list-feature li
+	.ficon {
+		width: 63px;
+		height: 63px;
+		line-height: 63px;
+		border: 1px solid #00B9F7;
+		border-radius: 50%;
+		margin-right: 15px; }
+	  .list-feature li .icon1 {
+		background: url("../img/icon1.png") no-repeat center; }
+	  .list-feature li .icon2 {
+		background: url("../img/icon2.png") no-repeat center; }
+	  .list-feature li .icon3 {
+		background: url("../img/icon3.png") no-repeat center; }
+	  .list-feature li .icon4 {
+		background: url("../img/icon4.png") no-repeat center; }
+	  .list-feature li .icon5 {
+		background: url("../img/icon5.png") no-repeat center; }
+	  .list-feature li .icon6 {
+		background: url("../img/icon6.png") no-repeat center; } 
+		
+		
+		/*over lay media*/
+}
+@media(max-width:767px){
+	.ribbon .ribbon-icon {
+		left: 38%!important;
+	}
+	.carousel-indicators {bottom: -10px!important;}
+	
+	
+	
+}
